@@ -1,4 +1,4 @@
-# KZE — Creative Technologist Portfolio
+# KZE — Creative Technologist 
 
 **KZE** (Krishna Sali) — Creative Technologist, based in Maharashtra, India  
 Front-end engineer & prototyper, remote-friendly, available worldwide
